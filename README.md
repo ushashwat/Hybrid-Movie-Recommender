@@ -3,7 +3,7 @@
 Movie recommendation system predicting movies based on user id and title </br>
 
 
-![Error!](https://github.com/ushashwat/Hybrid-Movie-Recommender/blob/master/recommendation_list.jpg) </br>
+![Error!](https://github.com/ushashwat/Hybrid-Movie-Recommender/blob/master/recommendation_list.png) </br>
 
 
 ### Data Description
