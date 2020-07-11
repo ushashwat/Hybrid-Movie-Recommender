@@ -10,9 +10,9 @@ This dataset also has files containing 26 million ratings from 270,000 users for
 
 ### Acknowledgement
 This dataset is an ensemble of data collected from TMDB and GroupLens. </br>
-The Movie Details, Credits and Keywords have been collected from the TMDB Open API. This product uses the TMDb API but is not endorsed or certified by TMDb. Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. </br>
-The Movie Links and Ratings have been obtained from the Official GroupLens website. The files are a part of the dataset available </br>
-Data: https://grouplens.org/datasets/movielens/latest/ </br>
+The Movie Details, Credits and Keywords have been collected from the [TMDB Open API](https://www.themoviedb.org/documentation/api). This product uses the TMDb API but is not endorsed or certified by TMDb. Their API also provides access to data on many additional movies, actors and actresses, crew members, and TV shows. </br>
+The Movie Links and Ratings have been obtained from the [Official GroupLens website](https://grouplens.org/datasets/movielens/latest/). </br>
+Data: https://www.kaggle.com/rounakbanik/notebook </br>
 
 
 ### Special Thanks
