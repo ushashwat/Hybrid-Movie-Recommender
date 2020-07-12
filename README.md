@@ -1,4 +1,4 @@
-# Hybrid-Movie-Recommender
+# Hybrid Movie Recommender
 [Kaggle Notebook](https://www.kaggle.com/ushashwat/hybrid-movie-recommender) </br>
 Movie recommendation system to predict movies based on user id and title </br>
 
